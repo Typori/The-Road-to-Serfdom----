@@ -43,6 +43,8 @@ def extract_translation(lines):
     in_translation = False
     prev_p = ""
     prev_s = ""
+    pending_nbsp = False  # 标记是否需要在下一个内容前添加&nbsp;
+    last_section_has_content = False  # 标记当前章节是否有内容
     
     for line in lines:
         # 检查章节标题
@@ -51,10 +53,27 @@ def extract_translation(lines):
             section_title = section_match.group(1)
             # 跳过注释和修订记录部分
             if not re.search(r'^(注释|本章修订记录)', section_title):
+                # 如果前一个章节有内容，在新章节前添加&nbsp;分隔
+                if last_section_has_content:
+                    result.append("")
+                    result.append("&nbsp;")
+                    result.append("")
+                
+                # 如果有待处理的&nbsp;，在标题前添加
+                if pending_nbsp:
+                    result.append("")
+                    result.append("&nbsp;")
+                    result.append("")
+                    pending_nbsp = False
+                
                 result.append("")
                 result.append(f"## {section_title}")
                 result.append("")
+                last_section_has_content = False
             in_translation = False
+            prev_p = ""
+            prev_s = ""
+            pending_nbsp = False
             continue
         
         # 检查译文标记
@@ -85,18 +104,24 @@ def extract_translation(lines):
                     
                     # 根据p/s变化添加换行
                     if prev_p and prev_p != cur_p:
-                        # p切换：插入额外间距（使用&nbsp;创造视觉区分）
-                        result.append("")
-                        result.append("&nbsp;")
-                        result.append("")
+                        # p切换：标记需要在下一个内容前添加&nbsp;
+                        pending_nbsp = True
                     elif prev_s and prev_s != cur_s:
                         # s切换：一个换行
                         result.append("")
+                    
+                    # 如果有待处理的&nbsp;，在添加内容前先添加
+                    if pending_nbsp:
+                        result.append("")
+                        result.append("&nbsp;")
+                        result.append("")
+                        pending_nbsp = False
                     
                     prev_p = cur_p
                     prev_s = cur_s
                 
                 result.append(clean_line)
+                last_section_has_content = True
     
     return result
 
