@@ -96,7 +96,7 @@ note_style: "原注/译注分开编号,文末统一列出"
 > That a change of ideas and the force of human will have made the world what it is now, though men did not foresee the results, and that no spontaneous change in the facts obliged us thus to adapt our thought is perhaps particularly difficult for the Anglo-Saxon nations to see, just because in this development they have, fortunately for them, lagged behind most of the European peoples. <!-- p3.s3 -->
 
 [译文]
-有一个事实,对盎格鲁-撒克逊国家来说尤其难以看清。让世界变成今天这副模样的,是观念的改变与人的意志之力。当初人们并未预见到这些后果。也不是客观事实的自发变化迫使我们调整思想。恰恰相反,是我们主动选择了新观念,才带来了今天的局面。之所以这个事实对盎格鲁-撒克逊国家特别难以看清,正是因为在这场发展中,对他们来说幸运的是,他们落后于大多数欧洲民族。<!-- p3.s3 -->
+有一个事实对盎格鲁-撒克逊国家来说尤其难以看清:现今世界的样貌乃是观念转变与人的意志之力所塑造,虽然人们并未预见这些后果,也并非客观形势的自发变化迫使我们改变思想,而是我们主动接纳了新的观念,才导致了如今的局面。之所以这一点对盎格鲁-撒克逊国家特别难以理解,正是因为幸运的是,他们在这场发展中落后于欧洲大多数民族。<!-- p3.s3 -->
 
 [原文]
 > We still think of the ideals which guide us, and have guided us for the past generation, as ideals only to be realized in the future and are not aware how far in the last twenty-five years they have already transformed not only the world but also our own countries. <!-- p3.s4 -->
@@ -194,7 +194,7 @@ note_style: "原注/译注分开编号,文末统一列出"
 > The gradual transformation of a rigidly organized hierarchic system into one where men could at least attempt to shape their own life, where man gained the opportunity of knowing and choosing between different forms of life, is closely associated with the growth of commerce. <!-- p7.s1 -->
 
 [译文]
-从刚性的等级组织体系逐步转变为一个人们至少可以尝试塑造自己生活的体系,在这个体系中人们获得了认识和选择不同生活方式的机会——这一转变与商业的发展密切相关。<!-- p7.s1 -->
+商业的发展推动了一场深刻的社会变革:刚性的等级组织体系逐步瓦解,人们获得了塑造自己人生的机会,可以认识和选择不同的生活方式。<!-- p7.s1 -->
 
 [原文]
 > From the commercial cities of northern Italy the new view of life spread with commerce to the west and north, through France and the southwest of Germany to the Low Countries and the British Isles, taking firm root wherever there was no despotic political power to stifle it. <!-- p7.s2 -->
@@ -224,13 +224,13 @@ note_style: "原注/译注分开编号,文末统一列出"
 > The conscious realization that the spontaneous and uncontrolled efforts of individuals were capable of producing a complex order of economic activities could come only after this development had made some progress. <!-- p8.s2 -->
 
 [译文]
-要清楚地认识到个人自发的、不受控制的努力能够产生一个复杂的经济活动秩序,这只有在这种发展取得一定进展之后才有可能。<!-- p8.s2 -->
+人们只有在经济活动发展到一定阶段后,才能清楚地认识到:个人的自发行动虽然不受控制,却能够创造出复杂有序的经济活动体系。<!-- p8.s2 -->
 
 [原文]
 > The subsequent elaboration of a consistent argument in favor of economic freedom was the outcome of a free growth of economic activity which had been the undesigned and unforeseen by-product of political freedom. <!-- p8.s3 -->
 
 [译文]
-后来对支持经济自由的一致论证的详细阐述,是经济活动自由发展的产物,而这种自由发展本身是政治自由的非设计的、未预见的副产品。<!-- p8.s3 -->
+支持经济自由的理论后来得到系统的论证,但这个论证本身却是经济活动自由发展的产物——而这种自由发展原本是政治自由的意外收获,并非有意设计的结果。<!-- p8.s3 -->
 
 [原文]
 > Perhaps the greatest result of the unchaining of individual energies was the marvelous growth of science which followed the march of individual liberty from Italy to England and beyond. <!-- p9.s1 -->
@@ -248,7 +248,7 @@ note_style: "原注/译注分开编号,文末统一列出"
 > But the few attempts toward a more extended industrial use of mechanical inventions, some extraordinarily advanced, were promptly suppressed, and the desire for knowledge was stifled, so long as the dominant views were held to be binding for all: the beliefs of the great majority on what was right and proper were allowed to bar the way of the individual innovator. <!-- p9.s3 -->
 
 [译文]
-但是,那些试图更广泛地在工业上使用机械发明的少数尝试,其中有些异常先进,都被迅速压制了。对知识的渴望也被扼杀了。只要主流观点被认为对所有人都有约束力:大多数人关于什么是正确和适当的信念,就被允许阻挡个体创新者的道路。<!-- p9.s3 -->
+但那些试图更广泛地在工业上运用机械发明的尝试——其中有些异常先进——都被迅速压制了,对知识的渴望也被扼杀了。只要占主导地位的观点被认为对所有人都有约束力,大多数人关于什么是正确和恰当的信念就被用来阻挡个体创新者的道路。<!-- p9.s3 -->
 
 [原文]
 > Only since industrial freedom opened the path to the free use of new knowledge, only since everything could be tried—if somebody could be found to back it at his own risk—and, it should be added, as often as not from outside the authorities officially entrusted with the cultivation of learning, has science made the great strides which in the last hundred and fifty years have changed the face of the world. <!-- p9.s4 -->
@@ -376,13 +376,13 @@ note_style: "原注/译注分开编号,文末统一列出"
 > This progress depended on the growth of our understanding of the social forces and the conditions most favorable to their working in a desirable manner. <!-- p14.s3 -->
 
 [译文]
-这种进步依赖于我们对社会力量及其以理想方式运作的最有利条件的理解的增长。<!-- p14.s3 -->
+因为这种进步的前提是我们对社会力量及其最优运作条件的理解不断深化。<!-- p14.s3 -->
 
 [原文]
 > Since the task was to assist, and where necessary to supplement, their operation, the first requisite was to understand them. <!-- p14.s4 -->
 
 [译文]
-既然任务是协助、并在必要时补充这些力量的运作,首要条件就是理解它们。<!-- p14.s4 -->
+既然任务是协助、并在必要时补充这些力量的作用,最首要的就是理解它们。<!-- p14.s4 -->
 
 [原文]
 > The attitude of the liberal toward society is like that of the gardener who tends a plant and, in order to create the conditions most favorable to its growth, must know as much as possible about its structure and the way it functions. <!-- p14.s5 -->
@@ -430,7 +430,7 @@ note_style: "原注/译注分开编号,文末统一列出"
 > Because of the success already achieved, man became increasingly unwilling to tolerate the evils still with him which now appeared both unbearable and unnecessary. <!-- p16.s4 -->
 
 [译文]
-因为已经取得的成功,人们越来越不愿意容忍仍然存在的那些恶——这些恶现在看来既是无法忍受的,又是不必要的。[注-原-10]<!-- p16.s4 -->
+因为已经取得的成功,人们越来越不愿意容忍仍然存在的那些恶——这些恶现在看来既是无法忍受的,也是不必要的。[注-原-10]<!-- p16.s4 -->
 
 ## 第四节:从自由主义到社会主义的转变
 
