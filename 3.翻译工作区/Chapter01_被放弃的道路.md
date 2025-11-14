@@ -438,85 +438,85 @@ note_style: "原注/译注分开编号,文末统一列出"
 > Because of the growing impatience with the slow advance of liberal policy, the just irritation with those who used liberal phraseology in defense of antisocial privileges, and the boundless ambition seemingly justified by the material improvements already achieved, it came to pass that toward the turn of the century the belief in the basic tenets of liberalism was more and more relinquished. <!-- p17.s1 -->
 
 [译文]
-由于对自由主义政策缓慢进展的日益不耐烦,由于对那些用自由主义辞藻为反社会特权辩护的人的正当恼怒,以及由于那种似乎被已经取得的物质改善所证明是正当的无限雄心,到世纪之交时,对自由主义基本信条的信仰越来越被放弃了。<!-- p17.s1 -->
+到世纪之交时,人们对自由主义基本信条的信仰越来越淡薄了。这有三个原因。第一,人们对自由主义政策的缓慢进展日益不耐烦。第二,有些人用自由主义的辞藻为反社会的特权辩护,这引起了正当的恼怒。第三,已经取得的物质改善似乎证明了无限雄心是正当的。<!-- p17.s1 -->
 
 [原文]
 > What had been achieved came to be regarded as a secure and imperishable possession, acquired once and for all. <!-- p17.s2 -->
 
 [译文]
-已经取得的成就开始被视为一种安全而不朽的财产,一劳永逸地获得了。<!-- p17.s2 -->
+人们开始把已经取得的成就视为理所当然。他们认为这是一种安全而永久的财产,已经一劳永逸地获得了。<!-- p17.s2 -->
 
 [原文]
 > The eyes of the people became fixed on the new demands, the rapid satisfaction of which seemed to be barred by the adherence to the old principles. <!-- p17.s3 -->
 
 [译文]
-人们的眼睛盯住了新的要求,而对旧原则的坚持似乎阻碍了对这些要求的快速满足。<!-- p17.s3 -->
+人们的目光转向了新的诉求。在他们看来,坚持旧原则阻碍了这些诉求的快速满足。<!-- p17.s3 -->
 
 [原文]
 > It became more and more widely accepted that further advance could be expected not along the old lines within the general framework which had made past progress possible but only by a complete remodeling of society. <!-- p17.s4 -->
 
 [译文]
-越来越广泛地被接受的观点是:进一步的进步不能期待沿着旧路线,在那个使过去进步成为可能的总体框架内,而只能通过对社会的彻底改造。<!-- p17.s4 -->
+一种观点越来越被广泛接受:要想取得更多的进步,就不能再沿着旧路线前进了。那个使过去进步成为可能的总体框架已经不够用了,只有彻底改造社会才行。<!-- p17.s4 -->
 
 [原文]
 > It was no longer a question of adding to or improving the existing machinery but of completely scrapping and replacing it. <!-- p17.s5 -->
 
 [译文]
-问题不再是增加或改进现有机制,而是彻底废弃和替换它。<!-- p17.s5 -->
+问题不再是如何增补或改进现有的机制,而是要彻底废弃它,用新的来替换。<!-- p17.s5 -->
 
 [原文]
 > And, as the hope of the new generation came to be centered on something completely new, interest in and understanding of the functioning of the existing society rapidly declined; and, with the decline of the understanding of the way in which the free system worked, our awareness of what depended on its existence also decreased. <!-- p17.s6 -->
 
 [译文]
-而且,当新一代人的希望集中在某种全新的东西上时,对现存社会运作的兴趣和理解迅速下降。随着对自由制度如何运作的理解下降,我们对什么东西依赖于它的存在的意识也减少了。<!-- p17.s6 -->
+新一代人把希望寄托在某种全新的东西上。因此,他们对现存社会如何运作的兴趣和理解迅速下降。随着人们越来越不理解自由制度是如何运作的,他们也越来越意识不到有什么东西依赖于这个制度的存在。<!-- p17.s6 -->
 
 [原文]
 > This is not the place to discuss how this change in outlook was fostered by the uncritical transfer to the problems of society of habits of thought engendered by the preoccupation with technological problems, the habits of thought of the natural scientist and the engineer, and how these at the same time tended to discredit the results of the past study of society which did not conform to their prejudices and to impose ideals of organization on a sphere to which they are not appropriate. <!-- p18.s1 -->
 
 [译文]
-这里不是讨论这种观念转变是如何被助长的地方——这种转变源于不加批判地将专注于技术问题所产生的思维习惯,即自然科学家和工程师的思维习惯,转移到社会问题上。也不是讨论这些思维习惯如何同时倾向于使那些不符合他们偏见的过去社会研究成果失去信誉,并将组织理想强加于一个它们并不适用的领域。[注-原-11]<!-- p18.s1 -->
+至于这种观念转变是如何被助长的,这里不是讨论这个问题的地方。[注-原-11] 简单说就是,人们专注于技术问题,形成了自然科学家和工程师的思维习惯,然后不加批判地把这些思维习惯转移到社会问题上。这些思维习惯还产生了两个倾向:一是贬低过去的社会研究成果——只要它们不符合自己的偏见;二是把组织理想强加到一个并不适用的领域。这些也不是这里要讨论的。<!-- p18.s1 -->
 
 [原文]
 > All we are here concerned to show is how completely, though gradually and by almost imperceptible steps, our attitude toward society has changed. <!-- p18.s2 -->
 
 [译文]
-我们在这里所关心要展示的,只是我们对社会的态度是如何完全改变的——尽管是逐渐地、通过几乎难以察觉的步骤。<!-- p18.s2 -->
+我们在这里只想说明一点:我们对社会的态度已经彻底改变了。尽管这种改变是逐渐发生的,每一步都几乎难以察觉。<!-- p18.s2 -->
 
 [原文]
 > What at every stage of this process of change had appeared a difference of degree only has in its cumulative effect already brought about a fundamental difference between the older liberal attitude toward society and the present approach to social problems. <!-- p18.s3 -->
 
 [译文]
-在这个变化过程的每个阶段看起来只是程度上的差异,但其累积效应已经在旧自由主义对社会的态度与当前处理社会问题的方法之间造成了根本性的差异。<!-- p18.s3 -->
+在变化过程的每个阶段,看起来只是程度上的差异。但这些差异累积起来,已经造成了根本性的不同。旧自由主义对待社会的态度,与当前处理社会问题的方法,已经有了本质区别。<!-- p18.s3 -->
 
 [原文]
 > The change amounts to a complete reversal of the trend we have sketched, an entire abandonment of the individualist tradition which has created Western civilization. <!-- p18.s4 -->
 
 [译文]
-这种变化相当于我们所勾勒的趋势的完全逆转,是对创造了西方文明的个人主义传统的彻底放弃。<!-- p18.s4 -->
+这种变化意味着什么呢?它意味着我们前面勾勒的那个趋势完全逆转了。它意味着对个人主义传统的彻底放弃——而正是这个传统创造了西方文明。<!-- p18.s4 -->
 
 [原文]
 > According to the views now dominant, the question is no longer how we can make the best use of the spontaneous forces found in a free society. <!-- p19.s1 -->
 
 [译文]
-按照现在占主导地位的观点,问题不再是我们如何才能最好地利用在自由社会中发现的自发力量。<!-- p19.s1 -->
+按照现在占主导地位的观点,问题已经不再是:我们如何才能最好地利用自由社会中的那些自发力量?<!-- p19.s1 -->
 
 [原文]
 > We have in effect undertaken to dispense with the forces which produced unforeseen results and to replace the impersonal and anonymous mechanism of the market by collective and "conscious" direction of all social forces to deliberately chosen goals. <!-- p19.s2 -->
 
 [译文]
-我们实际上已经着手摒弃那些产生未预见结果的力量,并用对所有社会力量的集体的、"有意识的"指导来取代非人格化的、匿名的市场机制,以达到刻意选择的目标。<!-- p19.s2 -->
+我们实际上已经着手做两件事。第一,摒弃那些会产生未预见结果的力量。第二,用集体的、"有意识的"指导来取代市场那种非人格化的、匿名的机制,把所有社会力量都引向刻意选定的目标。<!-- p19.s2 -->
 
 [原文]
 > The difference cannot be better illustrated than by the extreme position taken in a widely acclaimed book on whose program of so-called "planning for freedom" we shall have to comment yet more than once. <!-- p19.s3 -->
 
 [译文]
-没有什么能比一本广受赞誉的书中采取的极端立场更好地说明这种差异了——对于这本书所谓的"为自由而规划"的纲领,我们还将不止一次地评论。<!-- p19.s3 -->
+这种差异有多大呢?没有什么比一本广受赞誉的书中的极端立场更能说明问题了。这本书提出了所谓"为自由而规划"的纲领,我们在后面还要不止一次地评论它。<!-- p19.s3 -->
 
 [原文]
 > "We have never had to set up and direct," writes Dr. Karl Mannheim, "the entire system of nature as we are forced to do today with society. . . . Mankind is tending more and more to regulate the whole of its social life, although it has never attempted to create a second nature." <!-- p19.s4 -->
 
 [译文]
-"我们从来不必像今天被迫对社会那样,去建立和指导整个自然系统,"卡尔·曼海姆博士写道,"……人类越来越倾向于调节其社会生活的全部,尽管它从未试图创造一个第二自然。"[注-原-12]<!-- p19.s4 -->
+卡尔·曼海姆博士写道:"我们从来不必去建立和指导整个自然系统,但今天我们却被迫对社会这样做。……人类越来越倾向于调节其社会生活的全部,尽管它从未试图创造一个第二自然。"[注-原-12]<!-- p19.s4 -->
 
 ## 第五节:思想运动的地理逆转——从西向东
 
@@ -524,7 +524,7 @@ note_style: "原注/译注分开编号,文末统一列出"
 > It is significant that this change in the trend of ideas has coincided with a reversal of the direction in which ideas have traveled in space. <!-- p20.s1 -->
 
 [译文]
-值得注意的是,思想趋势的这种转变,恰好与思想在空间中传播方向的逆转同时发生。<!-- p20.s1 -->
+有一个现象值得注意:思想趋势的这种转变,恰好与思想传播方向的逆转同时发生。<!-- p20.s1 -->
 
 [原文]
 > For over two hundred years English ideas had been spreading eastward. <!-- p20.s2 -->
@@ -536,85 +536,85 @@ note_style: "原注/译注分开编号,文末统一列出"
 > The rule of freedom which had been achieved in England seemed destined to spread throughout the world. <!-- p20.s3 -->
 
 [译文]
-在英国已经实现的自由统治,似乎注定要传遍全世界。<!-- p20.s3 -->
+英国已经实现了自由的统治,这种统治似乎注定要传遍全世界。<!-- p20.s3 -->
 
 [原文]
 > By about 1870 the reign of these ideas had probably reached its easternmost expansion. <!-- p20.s4 -->
 
 [译文]
-到1870年左右,这些思想的统治可能已经达到了其最东端的扩张。<!-- p20.s4 -->
+到1870年左右,这些思想的统治可能已经达到了最东端的扩张。<!-- p20.s4 -->
 
 [原文]
 > From then onward it began to retreat, and a different set of ideas, not really new but very old, began to advance from the East. <!-- p20.s5 -->
 
 [译文]
-从那时起,它开始退却,而一套不同的思想——并非真正新颖而是非常古老的思想——开始从东方推进。<!-- p20.s5 -->
+从那时起,它开始退却。与此同时,一套不同的思想开始从东方推进——这些思想并非真正新颖,而是非常古老。<!-- p20.s5 -->
 
 [原文]
 > England lost her intellectual leadership in the political and social sphere and became an importer of ideas. <!-- p20.s6 -->
 
 [译文]
-英国失去了她在政治和社会领域的思想领导地位,成为思想的进口国。<!-- p20.s6 -->
+英国失去了在政治和社会领域的思想领导地位,变成了思想的进口国。<!-- p20.s6 -->
 
 [原文]
 > For the next sixty years Germany became the center from which the ideas destined to govern the world in the twentieth century spread east and west. <!-- p20.s7 -->
 
 [译文]
-在接下来的六十年里,德国成为中心,注定要在二十世纪统治世界的思想从这里向东向西传播。<!-- p20.s7 -->
+在接下来的六十年里,德国成为新的中心。那些注定要在二十世纪统治世界的思想,从这里向东向西传播。<!-- p20.s7 -->
 
 [原文]
 > Whether it was Hegel or Marx, List or Schmoller, Sombart or Mannheim, whether it was socialism in its more radical form or merely "organization" or "planning" of a less radical kind, German ideas were everywhere readily imported and German institutions imitated. <!-- p20.s8 -->
 
 [译文]
-无论是黑格尔还是马克思,李斯特还是施莫勒,桑巴特还是曼海姆,无论是更激进形式的社会主义,还是仅仅是不那么激进的"组织"或"规划",德国思想到处都被轻易地引进,德国制度被模仿。[注-原-13]<!-- p20.s8 -->
+无论是黑格尔还是马克思,无论是李斯特还是施莫勒,无论是桑巴特还是曼海姆;无论是更激进形式的社会主义,还是不那么激进的"组织"或"规划"——德国思想到处都被轻易地引进,德国制度到处都被模仿。[注-原-13]<!-- p20.s8 -->
 
 [原文]
 > Although most of the new ideas, and particularly socialism, did not originate in Germany, it was in Germany that they were perfected and during the last quarter of the nineteenth and the first quarter of the twentieth century that they reached their fullest development. <!-- p21.s1 -->
 
 [译文]
-尽管大多数新思想,特别是社会主义,并非起源于德国,但正是在德国它们得到了完善,并在十九世纪最后二十五年和二十世纪最初二十五年达到了最充分的发展。<!-- p21.s1 -->
+大多数新思想,特别是社会主义,并非起源于德国。但正是在德国,它们得到了完善。在十九世纪最后二十五年和二十世纪最初二十五年,它们在德国达到了最充分的发展。<!-- p21.s1 -->
 
 [原文]
 > It is now often forgotten how very considerable was the lead which Germany had during this period in the development of the theory and practice of socialism; that a generation before socialism became a serious issue in this country, Germany had a large socialist party in her parliament and that until not very long ago the doctrinal development of socialism was almost entirely carried on in Germany and Austria, so that even today Russian discussion largely carries on where the Germans left off. <!-- p21.s2 -->
 
 [译文]
-现在人们常常忘记,在这一时期德国在社会主义理论和实践发展方面的领先程度有多大。在社会主义成为英国的一个严重问题之前的一代人,德国议会中就已经有一个大型社会主义政党。直到不久之前,社会主义的学理发展几乎完全在德国和奥地利进行,以至于即使在今天,俄国的讨论在很大程度上也是从德国人停下的地方继续的。<!-- p21.s2 -->
+现在人们常常忘记,在这一时期,德国在社会主义理论和实践发展方面的领先程度有多大。几个事实可以说明这一点。第一,在社会主义成为英国的严重问题之前的一代人,德国议会中就已经有一个大型社会主义政党了。第二,直到不久之前,社会主义的学理发展几乎完全在德国和奥地利进行。第三,即使在今天,俄国的讨论在很大程度上也是从德国人停下的地方继续的。<!-- p21.s2 -->
 
 [原文]
 > Most English and American socialists are still unaware that the majority of the problems they begin to discover were thoroughly discussed by German socialists long ago. <!-- p21.s3 -->
 
 [译文]
-大多数英国和美国社会主义者仍然没有意识到,他们开始发现的大多数问题,早已被德国社会主义者彻底讨论过了。[注-原-14]<!-- p21.s3 -->
+大多数英国和美国社会主义者仍然没有意识到:他们开始发现的大多数问题,早已被德国社会主义者彻底讨论过了。[注-原-14]<!-- p21.s3 -->
 
 [原文]
 > The intellectual influence which German thinkers were able to exercise during this period on the whole world was supported not merely by the great material progress of Germany but even more by the extraordinary reputation which German thinkers and scientists had earned during the preceding hundred years when Germany had once more become an integral and even leading member of the common European civilization. <!-- p22.s1 -->
 
 [译文]
-德国思想家在这一时期能够对整个世界施加的思想影响,不仅得到了德国巨大物质进步的支持,而且更得到了德国思想家和科学家在前一个世纪赢得的非凡声誉的支持——在那一个世纪里,德国再次成为共同的欧洲文明的一个完整成员,甚至是领导成员。<!-- p22.s1 -->
+在这一时期,德国思想家能够对整个世界施加思想影响。这种影响力有两个支撑。一个是德国巨大的物质进步。另一个更重要的支撑,是德国思想家和科学家在前一个世纪赢得的非凡声誉——在那一个世纪里,德国再次成为共同的欧洲文明的完整成员,甚至是领导成员。<!-- p22.s1 -->
 
 [原文]
 > But it soon served to assist the spreading from Germany of ideas directed against the foundations of that civilization. <!-- p22.s2 -->
 
 [译文]
-但它很快被用来协助从德国传播针对那个文明基础的思想。<!-- p22.s2 -->
+但这种声誉很快被用来做另一件事:协助从德国传播那些针对欧洲文明基础的思想。<!-- p22.s2 -->
 
 [原文]
 > The Germans themselves—or at least those among them who spread these ideas—were fully aware of the conflict: what had been the common heritage of European civilization became to them, long before the Nazis, "Western" civilization—where "Western" was no longer used in the old sense of Occident but had come to mean west of the Rhine. <!-- p22.s3 -->
 
 [译文]
-德国人自己——或者至少是他们中间传播这些思想的那些人——完全意识到了这种冲突:曾经是欧洲文明共同遗产的东西,在纳粹之前很久,对他们来说就已经成为"西方"文明——这里的"西方"不再是旧意义上的西方(Occident),而是指莱茵河以西。<!-- p22.s3 -->
+德国人自己——或者至少是他们中间传播这些思想的那些人——完全意识到了这种冲突。在纳粹之前很久,他们就已经把曾经是欧洲文明共同遗产的东西称为"西方"文明了。这里的"西方"不再是旧意义上的西方(Occident),而是指莱茵河以西。<!-- p22.s3 -->
 
 [原文]
 > "Western" in this sense was liberalism and democracy, capitalism and individualism, free trade and any form of internationalism or love of peace. <!-- p22.s4 -->
 
 [译文]
-这个意义上的"西方"是自由主义和民主,是资本主义和个人主义,是自由贸易和任何形式的国际主义或对和平的热爱。<!-- p22.s4 -->
+这个意义上的"西方"包括什么呢?包括自由主义和民主,包括资本主义和个人主义,包括自由贸易和任何形式的国际主义或对和平的热爱。<!-- p22.s4 -->
 
 [原文]
 > But in spite of the ill-concealed contempt of an ever increasing number of Germans for those "shallow" Western ideals, or perhaps because of it, the people of the West continued to import German ideas and were even induced to believe that their own former convictions had merely been rationalizations of selfish interests, that free trade was a doctrine invented to further British interests, and that the political ideals of England and America were hopelessly outmoded and a thing to be ashamed of. <!-- p22.s5 -->
 
 [译文]
-但是,尽管越来越多的德国人对那些"肤浅的"西方理想毫不掩饰的蔑视,或者也许正是因为这种蔑视,西方人民继续进口德国思想,甚至被诱导相信:他们自己以前的信念仅仅是自私利益的合理化,自由贸易是为了进一步推进英国利益而发明的学说,英国和美国的政治理想已经绝望地过时,是应当感到羞耻的东西。<!-- p22.s5 -->
+越来越多的德国人对那些"肤浅的"西方理想毫不掩饰地表示蔑视。然而,尽管如此,或者也许正是因为如此,西方人民继续进口德国思想。他们甚至被诱导相信:他们自己以前的信念,不过是自私利益的合理化;自由贸易,不过是为了推进英国利益而发明的学说;英国和美国的政治理想,已经绝望地过时了,是应当感到羞耻的东西。<!-- p22.s5 -->
 
 ---
 
