@@ -3,8 +3,8 @@ title: "个人主义与集体主义"
 chapter: 3
 source_edition: "The Road to Serfdom, University of Chicago Press, 2007 Definitive Edition"
 translator: "<署名>"
-revision: "v0.1-draft"
-date: "2025-11-15"
+revision: "v0.2-审阅优化"
+date: "2025-11-17"
 sections: 4
 term_version: "glossary v1.0-draft"
 note_style: "原注/译注分开编号,文末统一列出"
@@ -12,7 +12,7 @@ note_style: "原注/译注分开编号,文末统一列出"
 
 # 个人主义与集体主义
 
-> 摘要：本章澄清个人主义与集体主义的真实含义，揭示两种思想体系的根本对立，以及自发秩序与设计秩序的区别。
+> 摘要：为避免概念混乱先行误导，本文以更平实的路径铺垫核心问题：当人们谈论“社会主义”“计划”时，往往把目标与手段混为一谈。全章将厘清个人主义（individualism）与集体主义（collectivism）的界线，区分“自发秩序”（spontaneous order）与“设计秩序”，并解释“计划”（planning）在不同语义下的歧义与后果。
 
 ---
 
@@ -38,7 +38,7 @@ note_style: "原注/译注分开编号,文末统一列出"
 > It may mean, and is often used to describe, merely the ideals of social justice, greater equality, and security, which are the ultimate aims of socialism. But it means also the particular method by which most socialists hope to attain these ends and which many competent people regard as the only methods by which they can be fully and quickly attained. <!-- p1.s2 -->
 
 [译文]
-社会主义可能仅仅指社会正义、更大平等和安全的理想——这些是社会主义的终极目标。但它也指大多数社会主义者希望达到这些目标的特定方法。许多有能力的人认为，这是唯一能够充分而迅速地实现这些目标的方式。<!-- p1.s2 -->
+社会主义（socialism）可能仅仅指社会正义（social justice）、更大平等（equality）和安全（security）的理想——这些是社会主义的终极目标。但它也指大多数社会主义者希望达到这些目标的特定方法。许多有能力的人认为，这是唯一能够充分而迅速地实现这些目标的方式。<!-- p1.s2 -->
 
 [原文]
 > In this sense socialism means the abolition of private enterprise, of private ownership of the means of production, and the creation of a system of "planned economy" in which the entrepreneur working for profit is replaced by a central planning body. <!-- p1.s3 -->
@@ -68,7 +68,7 @@ note_style: "原注/译注分开编号,文末统一列出"
 > The dispute about socialism has thus become largely a dispute about means and not about ends—although the question whether the different ends of socialism can be simultaneously achieved is also involved. <!-- p2.s4 -->
 
 [译文]
-因此，关于社会主义的争论在很大程度上已经成为关于手段而非目标的争论——尽管社会主义的不同目标是否能够同时实现这个问题也涉及其中。<!-- p2.s4 -->
+因此，关于社会主义的争论在很大程度上已经成为关于“手段”而非“目标”的争论——尽管“不同目标是否能同时实现”的问题也牵连其中。<!-- p2.s4 -->
 
 ## 第二节：真假个人主义的分野
 
@@ -76,7 +76,7 @@ note_style: "原注/译注分开编号,文末统一列出"
 > This would be enough to create confusion. And the confusion has been further increased by the common practice of denying that those who repudiate the means value the ends. But this is not all. The situation is still more complicated by the fact that the same means, the "economic planning" which is the prime instrument of socialist reform, can be used for many other purposes. <!-- p3.s1 -->
 
 [译文]
-这足以造成混淆。而且，通过否认那些反对这些手段的人也重视这些目标的做法，混淆进一步加深了。但这还不是全部。更复杂的是，同样的手段——"经济计划"（社会主义改革的主要工具）——可以用于许多其他目的。<!-- p3.s1 -->
+这足以造成混淆。而且，通过否认那些反对这些手段的人也重视这些目标的做法，混淆进一步加深了。但这还不是全部。更复杂的是，同样的手段——“经济计划”（economic planning，社会主义改革的主要工具）——可以用于许多其他目的。<!-- p3.s1 -->
 
 [原文]
 > We must centrally direct economic activity if we want to make the distribution of income conform to current ideas of social justice. "Planning," therefore, is wanted by all those who demand that "production for use" be substituted for production for profit. But such planning is no less indispensable if the distribution of incomes is to be regulated in a way which to us appears to be the opposite of just. <!-- p3.s2 -->
@@ -94,7 +94,7 @@ note_style: "原注/译注分开编号,文末统一列出"
 > It may, perhaps, seem unfair to use the term "socialism" to describe its methods rather than its aims, to use for a particular method a term which for many people stands for an ultimate ideal. It is probably preferable to describe the methods which can be used for a great variety of ends as collectivism and to regard socialism as a species of that genus. <!-- p4.s1 -->
 
 [译文]
-用"社会主义"这个术语来描述其方法而非其目标，可能看起来不公平，因为对许多人来说，这个术语代表一个终极理想。更好的做法可能是把能够用于各种各样目标的方法称为"集体主义"，而把社会主义视为这个属的一个种。<!-- p4.s1 -->
+用"社会主义"这个术语来描述其方法而非其目标，可能看起来不公平，因为对许多人来说，这个术语代表一个终极理想。更好的做法可能是把能够用于各种各样目标的方法称为“集体主义”（collectivism），而把社会主义视为这个属的一个“种”。<!-- p4.s1 -->
 
 [原文]
 > Yet, although to most socialists only one species of collectivism will represent true socialism, it must always be remembered that socialism is a species of collectivism and that therefore everything which is true of collectivism as such must apply also to socialism. <!-- p4.s2 -->
